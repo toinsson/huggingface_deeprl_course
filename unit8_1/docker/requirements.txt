@@ -1,0 +1,14 @@
+pyglet==1.5
+pyvirtualdisplay
+gym==0.21
+mujoco-py<2.2,>=2.1
+cython
+imageio
+imageio-ffmpeg
+
+stable_baselines3
+huggingface_hub
+huggingface_sb3
+box2d
+wasabi
+tensorboard
