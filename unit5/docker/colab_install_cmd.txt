@@ -1,0 +1,14 @@
+%%capture
+!apt install python-opengl
+!apt install ffmpeg
+!apt install xvfb
+!pip install pyvirtualdisplay
+!pip install pyglet==1.5.1
+
+gym
+git+https://github.com/ntasfi/PyGame-Learning-Environment.git
+git+https://github.com/qlan3/gym-games.git
+huggingface_hub
+imageio
+imageio-ffmpeg
+pyyaml==6.0

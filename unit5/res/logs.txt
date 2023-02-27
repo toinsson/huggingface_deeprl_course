@@ -1,0 +1,7 @@
+Eval num_timesteps=10000, episode_reward=8.00 +/- 9.00
+Episode length: 85.00 +/- 54.00
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=18.50 +/- 1.50
+Episode length: 147.00 +/- 10.00
+New best mean reward!
+[I 2023-01-14 21:07:35,022] Trial 16 finished with value: 18.5 and parameters: {'gamma': 0.045413956829599776, 'max_grad_norm': 0.6457295923488173, 'exponent_n_steps': 5, 'lr': 0.000850722860708673, 'net_arch': 'small', 'activation_fn': 'relu'}. Best is trial 16 with value: 18.5.
