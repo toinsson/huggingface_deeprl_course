@@ -1,0 +1,4 @@
+sample-factory==2.0.2
+vizdoom
+protobuf==3.20.*
+faster-fifo==1.4.2
